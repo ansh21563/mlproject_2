@@ -30,4 +30,4 @@ def read_sql_data():
        return df
        
    except Exception as ex:
-       raise CustomException(ex)    
+       raise CustomException(ex,sys)    
