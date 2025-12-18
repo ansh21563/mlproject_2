@@ -7,4 +7,7 @@ scikit-learn
 xgboost 
 catboost
 seaborn
-# 'e .' 
+flask
+dill
+mlflow==2.2.2
+#  -e .
