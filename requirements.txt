@@ -9,5 +9,5 @@ catboost
 seaborn
 flask
 dill
-mlflow==2.2.2
+mlflow
 #  -e .
