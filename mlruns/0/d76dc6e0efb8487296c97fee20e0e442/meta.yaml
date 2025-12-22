@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ansha/OneDrive/Desktop/project/mlproject_2/mlruns/0/d76dc6e0efb8487296c97fee20e0e442/artifacts
+end_time: 1766253259876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d76dc6e0efb8487296c97fee20e0e442
+run_name: awesome-grub-583
+run_uuid: d76dc6e0efb8487296c97fee20e0e442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766253256430
+status: 3
+tags: []
+user_id: root

@@ -10,4 +10,7 @@ seaborn
 flask
 dill
 mlflow
+urllib3==2.2.2
+dagshub
+mlflow
 #  -e .

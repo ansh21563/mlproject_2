@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ansha/OneDrive/Desktop/project/mlproject_2/mlruns/0/b40a926d2ee544a1965753d1376a7b9d/artifacts
+end_time: 1766253821693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40a926d2ee544a1965753d1376a7b9d
+run_name: abundant-conch-763
+run_uuid: b40a926d2ee544a1965753d1376a7b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766253817935
+status: 3
+tags: []
+user_id: root

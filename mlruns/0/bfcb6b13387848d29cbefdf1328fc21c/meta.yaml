@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ansha/OneDrive/Desktop/project/mlproject_2/mlruns/0/bfcb6b13387848d29cbefdf1328fc21c/artifacts
+end_time: 1766251119115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfcb6b13387848d29cbefdf1328fc21c
+run_name: abrasive-lynx-275
+run_uuid: bfcb6b13387848d29cbefdf1328fc21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766251115096
+status: 3
+tags: []
+user_id: root

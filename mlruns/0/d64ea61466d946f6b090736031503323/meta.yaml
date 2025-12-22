@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ansha/OneDrive/Desktop/project/mlproject_2/mlruns/0/d64ea61466d946f6b090736031503323/artifacts
+end_time: 1766251248805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d64ea61466d946f6b090736031503323
+run_name: charming-quail-629
+run_uuid: d64ea61466d946f6b090736031503323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766251245394
+status: 3
+tags: []
+user_id: root
